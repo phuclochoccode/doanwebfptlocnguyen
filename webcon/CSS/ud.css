@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(240, 207, 109); text-align: center;
+}
+h1{
+    text-align: center; color: rgb(238, 255, 168);
+}
+
+table{
+    width: 100%;
+}
+header{
+    background-image: url(../images/banner.png);
+}
+td img{
+    text-align: center;
+}
+img{
+    width: 400px; height: 300px;
+}
+img{
+    width: 300px; height: 200px;
+}
+table{
+    width: 100%;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+#l1{
+    width: 20%;
+}
+#l1 img{
+    
+    text-align: left; 
+    width: 200px; height: 100px;
+}
+#l2 img{
+    width: 70%;
+    text-align: center;
+    width: 200px; height: 100px;
+}
+td a{
+    color: white;
+    text-decoration: none;
+}
+#l3{ 
+    float: right;
+    width: 20%;
+    background-color: rgb(141, 24, 24); color: white; margin: 0px; padding: 0px; border-radius: 5px;
+   vertical-align: middle;
+}
+nav{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 3px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 60px;
+    color: black;
+}
+nav a:hover {
+    background-color: rgb(255, 252, 69); 
+    border: 15px solid rgb(255, 252, 69);
+    border-radius: 5px;
+}
